@@ -17,8 +17,8 @@
       <file leaf-file-name="SpringTestCase.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/lin/baseTest/SpringTestCase.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+            <state relative-caret-position="57">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -38,6 +38,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/test/java/com/lin/baseTest/SpringTestCase.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -195,12 +196,12 @@
       <updated>1528008188885</updated>
       <workItem from="1528008190414" duration="774000" />
       <workItem from="1528009631749" duration="679000" />
-      <workItem from="1528010336611" duration="1385000" />
+      <workItem from="1528010336611" duration="2780000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2838000" />
+    <option name="totallyTimeSpent" value="4233000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -212,7 +213,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="156" y="28" width="1400" height="776" extended-state="1" />
+    <frame x="156" y="28" width="1400" height="776" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291536" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
@@ -223,7 +224,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3255086" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.32967034" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3255086" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.46948355" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25707898" />
       <window_info id="Web" order="2" side_tool="true" />
@@ -273,10 +274,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/lin/baseTest/SpringTestCase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        <state relative-caret-position="57">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
