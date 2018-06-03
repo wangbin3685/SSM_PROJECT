@@ -8,6 +8,7 @@ import org.springframework.test.context.junit4.AbstractJUnit4SpringContextTests;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 //gittestgit
+//dev
 
 //指定bean注入的配置文件
 @ContextConfiguration(locations = { "classpath:application.xml" })
